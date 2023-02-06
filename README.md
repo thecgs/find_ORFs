@@ -1,6 +1,7 @@
 # find_ORFs
 
 ```
+./Linux/find_ORFs　-h
 
 usage: find_ORFs -i [input_file] [-o [output_file]] [-outfmt [int]] [-phase [int]] [-strand [int]] [-min_len [int]] [-max_len [int]] [-translate] [-codontable [int]]
                  [-stop_codons [str] [[str] ...]] [-start_codons [str] [[str] ...]] [-start_codon_model [int]] [-remove_stop_codon] [-remove_nested] [-h] [-v]
